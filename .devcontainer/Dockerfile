@@ -24,7 +24,7 @@ RUN pip install --no-cache-dir --upgrade pip \
 
 RUN pylint --generate-rcfile > .pylintrc
 
-ENV PYTHONPATH "${PYTHONPATH}:/tmp/work/mylib"
+ENV PYTHONPATH "${PYTHONPATH}:/tmp/work/src"
 
 # set non root user
 USER docker
