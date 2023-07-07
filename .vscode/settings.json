@@ -1,0 +1,23 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "cSpell.words": [
+        "addfont",
+        "boxplot",
+        "flierprops",
+        "fontpath",
+        "fontpaths",
+        "fontsize",
+        "labelsize",
+        "linewidth",
+        "markeredgewidth",
+        "markersize",
+        "matplotlib",
+        "rcparams",
+        "titlesize",
+        "xtick",
+        "ytick"
+    ]
+}
